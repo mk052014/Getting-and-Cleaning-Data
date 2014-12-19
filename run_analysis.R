@@ -1,4 +1,4 @@
-setwd("~/mydocs/Getting and Cleaning Data/Project")
+setwd("~/Project")
 
 # Reading features.txt , these are column names for X_train and X_test
 
